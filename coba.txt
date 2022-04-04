@@ -1,3 +1,4 @@
 coba mengisi file di repository git
 belajar mengedit file
-belajar mengedit file 2
+
+coba mengedit file kemudian mengirim commit ke remote
