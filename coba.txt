@@ -4,3 +4,5 @@ belajar mengedit file
 coba mengedit file kemudian mengirim commit ke remote
 
 kita mulai dari line 6
+
+sekarang kita belajar contrubuting, branch
